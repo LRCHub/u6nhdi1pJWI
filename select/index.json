@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "なかいま feat. 鎮座DOPENESS",
+  "base_artist": "LIBRO",
+  "createdAt": "2025-12-03T16:27:39.392443Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なかいま feat. 鎮座DOPENESS",
+      "artist": "LIBRO",
+      "has_synced": false,
+      "path": "select/pl_01_なかいま_feat._鎮座DOPENESS_LIBRO.txt"
+    }
+  ]
+}
